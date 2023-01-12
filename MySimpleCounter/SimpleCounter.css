@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(35, 35, 145) ;
+}
+
+#container{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 350px;
+    padding: 50px;
+    width: 500px;
+    background: white;
+}
+.btn{
+    font-size: 25px;
+    margin: 15px;
+    background: rgb(33, 94, 207);
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+#count{
+    font-size: 50px;
+    color: rgb(35, 35, 145);
+
+}
+
+#heading{
+    color: rgb(35, 35, 145);
+}
